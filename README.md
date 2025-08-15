@@ -39,3 +39,5 @@
 - [Upgit](https://github.com/pluveto/upgit) - 可以快捷地将文件上传到 Github 仓库并得到其直链。简洁跨平台，不常驻内存。可作为 Typora 的自定义上传器使用。
 
 ## 教程
+
+- [《了不起的 Markdown》](https://book.douban.com/subject/37478156/) - 一本系统介绍大语言模型时代写作通用语言的实践指南，以“排版技巧—应用场景—语法规范—工具赋能—知识管理—智能协作”为主线，深度整合 Markdown 核心语法、工具生态与 AI 应用。也是国内第一本全面介绍 Obsidian 功能和实践的书籍。
